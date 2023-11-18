@@ -31,8 +31,7 @@ Add the models in the admin interface using the code in admin.py
 
 Write the function based view to render the data from the models to the template in view.py
 
-![Alt text](view.py.png)
-
+![Alt text](123.png)
 
 
 
